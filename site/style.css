@@ -3,3 +3,5 @@
 .series-card.eiken .card-circle{background:#d6e6e1;color:#143642}.series-card.eiken .card-arc{border-color:#a8cfc1}
 
 @media(min-width:901px){.series-cards,.cards{grid-template-columns:repeat(4,minmax(0,1fr))}.series-card{padding:21px}.series-card h3{font-size:17px}.series-card p{font-size:11px}}
+
+.series-card.kanken .card-circle{background:#eadcc4;color:#493d31}.series-card.kanken .card-arc{border-color:#c8aa78}
