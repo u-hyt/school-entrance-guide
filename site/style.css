@@ -4,4 +4,4 @@
 
 @media(min-width:901px){.series-cards,.cards{grid-template-columns:repeat(4,minmax(0,1fr))}.series-card{padding:21px}.series-card h3{font-size:17px}.series-card p{font-size:11px}}
 
-.series-card.kanken .card-circle{background:#eadcc4;color:#493d31}.series-card.kanken .card-arc{border-color:#c8aa78}
+.series-card.kanken .card-circle{background:#eadcc4;color:#493d31}.series-card.kanken .card-arc{border-color:#c8aa78}.series-card.mathkentei .card-circle{background:#d1e2e0;color:#254b54}.series-card.mathkentei .card-arc{border-color:#9dbfba}
