@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://u-hyt.github.io/school-study-guide/sitemap.xml
+Sitemap: https://u-hyt.github.io/school-entrance-guide/sitemap.xml
